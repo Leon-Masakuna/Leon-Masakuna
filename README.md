@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development at Kinshasa Digital Academy**
 
-- 💬 Ask me about **react, next, javascript, bootstrap**
+- 💬 Ask me about **Html, css, reactjs, nextjs, javascript, bootstrap, SQL, Database and Information systems**
 
 - 📫 How to reach me **[my portfolio](https://portfolio-leon-masakuna.netlify.app/)**
 
