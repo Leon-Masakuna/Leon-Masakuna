@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Léon Masakuna</h1>
-<h3 align="center">A passionate sDatabase Developer and Web Integrator</h3>
+<h1 align="center">Hey 👋, I'm Léon Masakuna</h1>
+<h3 align="center">A passionate Database Developer and Web Integrator</h3>
 
-- 🌱 I’m currently learning **Full Stack Developpement at Simplon**
+- 🌱 I’m currently learning **Web Development at Kinshasa Digital Academy**
 
 - 💬 Ask me about **react, next, javascript, bootstrap**
 
-- 📫 How to reach me **[hermanngumbu@gmail.com](https://portfolio-leon-masakuna.netlify.app/)**
+- 📫 How to reach me **[my portfolio](https://portfolio-leon-masakuna.netlify.app/)**
 
 
 ## 🌐 Socials:
