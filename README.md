@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm Léon Masakuna</h1>
-<h2 align="center">Database Designer and Web Integrator</h2>
+<h2 align="center">DJunior Web Developer</h2>
 
 - 🌱 I’m currently learning **Web Development at Kinshasa Digital Academy**
 
-- 💬 Ask me about **Html, css, reactjs, nextjs, javascript, bootstrap, SQL, Database and Information systems**
+- 💬 Ask me about **HTML, CSS, ReactJS, NextJS, JavaScript, TypeScript Bootstrap, SQL, and MongoDB**
 
-- 📫 How to reach me **[my portfolio](https://portfolio-leon-masakuna.netlify.app/)**
+- 📫 How to reach me : **[my portfolio](https://portfolio-leon-masakuna.netlify.app/)**
 
 
 ## 🌐 Socials:
