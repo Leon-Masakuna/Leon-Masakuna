@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Léon Masakuna</h1>
-<h2 align="center">DJunior Web Developer</h2>
+<h2 align="center">Junior Web Developer</h2>
 
 - 🌱 I’m currently learning **Web Development at Kinshasa Digital Academy**
 
