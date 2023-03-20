@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Léon Masakuna</h1>
 <h2 align="center">Junior Web Developer</h2>
 
-- 🌱 I’m currently learning **Web Development at Kinshasa Digital Academy**
+- 🌱 I learned **Web Development at Kinshasa Digital Academy**
 
 - 💬 Ask me about **HTML, CSS, ReactJS, NextJS, JavaScript, TypeScript Bootstrap, SQL, and MongoDB**
 
