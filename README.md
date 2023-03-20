@@ -3,7 +3,7 @@
 
 - 🌱 I learned **Web Development at Kinshasa Digital Academy**
 
-- 💬 Ask me about **HTML, CSS, ReactJS, NextJS, JavaScript, TypeScript Bootstrap, SQL, and MongoDB**
+- 💬 Ask me about **HTML, CSS, ReactJS, NextJS, JavaScript, TypeScript Bootstrap, MySQL, and MongoDB**
 
 - 📫 How to reach me : **[my portfolio](https://portfolio-leon-masakuna.netlify.app/)**
 
