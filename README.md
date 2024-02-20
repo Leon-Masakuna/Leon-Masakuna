@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Léon Masakuna</h1>
-<h2 align="center">Web Developer</h2>
+<h2 align="center">Web Developer and Cloud Practitioner</h2>
 
 - 🌱 I learned **Web Development at Kinshasa Digital Academy**
 
