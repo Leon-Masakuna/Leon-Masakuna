@@ -3,7 +3,7 @@
 
 - 🌱 I learned **Web Development at Kadea Academy and AWS Cloud Computing at Orange Digital Center RDC**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, ReactJS, JavaScript, TypeScript, NodeJS, ExpressJS, NestJS, MySQL and MongoDB**
+- 💬 Ask me about **HTML, CSS, Bootstrap, ReactJS, JavaScript, TypeScript, NodeJS, ExpressJS, NestJS, MySQL, MongoDB and Amazon Web Services**
 
 - 📫 How to reach me : **[my portfolio](https://portfolio-leon-masakuna.netlify.app/)**
 
