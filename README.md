@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Léon Masakuna</h1>
-<h2 align="center">Full Stack Web Developer and AWS Cloud Practitioner</h2>
+<h2 align="center">Full Stack Web Developer</h2>
 
-- 🌱 I learned **Web Development at Kadea Academy and AWS Cloud Computing at Orange Digital Center RDC**
+- 🌱 I learned **Web Development at Kadea Academy and ISIPA**
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, ReactJS, JavaScript, TypeScript, NodeJS, ExpressJS, NestJS, MySQL, MongoDB and Amazon Web Services**
 
